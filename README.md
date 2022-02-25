@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prince-Sri
 - 👀 I’m interested in Data Science/Analytics
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently working in Infosys
 - 💞️ I’m looking to collaborate on Data Analytics 
 - 📫 How to reach me www.linkedin.com/in/prince72
 
